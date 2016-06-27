@@ -1,8 +1,8 @@
 # Devfights (Name Subject to Change 👀)
 
-Devfights is an interface for [#codefights](https://dev-s.slack.com/messages/codefights/) and [Codefights](codefights.com) and name is subject to change.
+**Devfights** is an interface for [#codefights](https://dev-s.slack.com/messages/codefights/) and [Codefights](codefights.com).
 
-## Stuff to use
+## Toolbox
 
 - Language: Go (fuck Python)
 - Build tool: [gb](https://getgb.io)

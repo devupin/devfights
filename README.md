@@ -6,7 +6,7 @@ Devfights is an interface for [#codefights](https://dev-s.slack.com/messages/cod
 
 - Language: Go (fuck Python)
 - Build tool: [gb](https://getgb.io)
-- Webframework: Gin ([The Lord](https://dev-s.slack.com/archives/golang/p1467037233000037) has spoken. Amen!)
+- Webframework: Revel (fuck Gin)
 - Database: SQLite (it ain't no Big Datas)
 - ORM: Gorm
 - HTTP requests library (something like Python Requests)
